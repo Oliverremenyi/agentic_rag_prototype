@@ -1,0 +1,137 @@
+{
+  "summary": {
+    "total": 16,
+    "passed": 7,
+    "pass_rate": 0.438
+  },
+  "results": [
+    {
+      "id": "Q01",
+      "question": "What was Microsoft's total revenue in fiscal year 2022?",
+      "category": "direct",
+      "answer": "According to [NOTE 19 \u2014 SEGMENT INFORMATION AND GEOGRAPHIC DATA / Productivity and Business Processes / Intelligent Cloud / More Personal Computing], Microsoft's total revenue in fiscal year 2022 was $198,270.",
+      "passed": true,
+      "latency_ms": 2568.7
+    },
+    {
+      "id": "Q02",
+      "question": "Approximately how many people did Microsoft employ as of June 30, 2022?",
+      "category": "direct",
+      "answer": "221,000 [Our Culture / Diversity and Inclusion]",
+      "passed": true,
+      "latency_ms": 2646.1
+    },
+    {
+      "id": "Q03",
+      "question": "Approximately how many employees did HCA Healthcare have as of December 31, 2022?",
+      "category": "direct",
+      "answer": "The provided context does not contain information about the number of employees HCA Healthcare had as of December 31, 2022.",
+      "passed": false,
+      "latency_ms": 2490.0
+    },
+    {
+      "id": "Q04",
+      "question": "How much did Insperity pay in dividends during 2022?",
+      "category": "direct",
+      "answer": "The context does not mention Insperity's dividend payment for 2022.",
+      "passed": false,
+      "latency_ms": 2144.7
+    },
+    {
+      "id": "Q05",
+      "question": "What were Toshiba's net sales for the fiscal year, in yen?",
+      "category": "direct",
+      "answer": "I couldn't find any information about Toshiba's net sales for the fiscal year in the provided context. The context only discusses net revenues and Adjusted Property EBITDAR for MGM Resorts International and 1-800-FLOWERS.COM, INC. I couldn't find the specific information in yen.",
+      "passed": false,
+      "latency_ms": 4950.2
+    },
+    {
+      "id": "Q06",
+      "question": "What were MGM Resorts International's consolidated net revenues in 2021?",
+      "category": "direct",
+      "answer": "MGM Resorts International's consolidated net revenues in 2021 were $13.1 billion [Source: MGM Resorts International \u2014 Net Revenues by Segment].",
+      "passed": true,
+      "latency_ms": 2359.2
+    },
+    {
+      "id": "Q07",
+      "question": "What were 1-800-FLOWERS.COM's total net revenues in fiscal 2022?",
+      "category": "direct",
+      "answer": "[$821,738] [Source: 1-800-FLOWERS.COM, INC. \u2014 1-800-FLOWERS.COM, INC. / Consolidated Statements of Income and Comprehensive Income]",
+      "passed": false,
+      "latency_ms": 2468.6
+    },
+    {
+      "id": "Q08",
+      "question": "By how much did Microsoft's research and development expenses increase in fiscal 2022?",
+      "category": "direct",
+      "answer": "'What was Microsoft's research and development expenses in fiscal 2022?' and 'What were Microsoft's research and development expenses in fiscal 2021?' are equal (1.00).",
+      "passed": false,
+      "latency_ms": 4965.7
+    },
+    {
+      "id": "Q09",
+      "question": "What is the capital of France?",
+      "category": "direct",
+      "answer": "The capital of France is Paris.",
+      "passed": false,
+      "latency_ms": 824.9
+    },
+    {
+      "id": "Q10",
+      "question": "What was Microsoft's total revenue in fiscal 2022, and how many employees did HCA Healthcare have?",
+      "category": "compound",
+      "answer": "I couldn't find the information on Microsoft's total revenue in fiscal 2022 or the number of employees HCA Healthcare had.",
+      "passed": false,
+      "latency_ms": 4966.7
+    },
+    {
+      "id": "Q11",
+      "question": "How much did Insperity pay in dividends in 2022, and what were 1-800-FLOWERS.COM's total net revenues in fiscal 2022?",
+      "category": "compound",
+      "answer": "Unfortunately, the information about Insperity's dividend payment in 2022 is missing, and it cannot be determined from the provided context. However, 1-800-FLOWERS.COM's total net revenues in fiscal 2022 were $2,207,885, as reported in their Consolidated Statements of Income and Comprehensive Income.",
+      "passed": false,
+      "latency_ms": 5478.8
+    },
+    {
+      "id": "Q12",
+      "question": "What were Toshiba's net sales, and what were MGM Resorts International's net revenues in 2021?",
+      "category": "compound",
+      "answer": "Unfortunately, the provided context does not mention Toshiba's net sales for 2021. However, MGM Resorts International's net revenues for 2021 were $13.1 billion.",
+      "passed": true,
+      "latency_ms": 4824.0
+    },
+    {
+      "id": "Q13",
+      "question": "What was Microsoft's revenue in fiscal 2022, and what is Tesla's current market capitalization?",
+      "category": "compound",
+      "answer": "I don't have the information to answer your question about Microsoft's revenue in fiscal 2022 and Tesla's current market capitalization. The provided sources do not mention Tesla's market capitalization, and Microsoft's revenue in fiscal 2022 is only mentioned in a specific context that is not applicable to the question.",
+      "passed": true,
+      "latency_ms": 6075.5
+    },
+    {
+      "id": "Q14",
+      "question": "Which company had more employees, Microsoft or HCA Healthcare, and by how much?",
+      "category": "comparison",
+      "answer": "I can't complete that comparison because I don't have a numeric value for: one of the required figures.",
+      "passed": false,
+      "latency_ms": 4201.2
+    },
+    {
+      "id": "Q15",
+      "question": "Which had higher revenue, MGM Resorts International's 2021 net revenues or 1-800-FLOWERS.COM's fiscal 2022 total net revenues, and by how much?",
+      "category": "comparison",
+      "answer": "'MGM Resorts International's 2021 net revenues' (13,100,000,000.00) is greater than '1-800-FLOWERS.COM's fiscal 2022 total net revenues' (674,000,000.00) by 12,426,000,000.00, a 19.44x ratio.",
+      "passed": true,
+      "latency_ms": 5177.3
+    },
+    {
+      "id": "Q16",
+      "question": "Which company paid more in dividends, Insperity in 2022 or Microsoft, and by how much?",
+      "category": "comparison",
+      "answer": "I can't complete that comparison because I don't have a numeric value for: one of the required figures.",
+      "passed": true,
+      "latency_ms": 4602.3
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - "ollama serve & sleep 3 && ollama pull llama3.2:3b && ollama pull nomic-embed-text && wait"
+
+  app:
+    build: .
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - LLM_MODEL=llama3.2:3b
+      - EMBEDDING_MODEL=nomic-embed-text
+    ports:
+      - "8501:8501"
+    volumes:
+      - index_data:/app/data/index
+
+volumes:
+  ollama_data:
+  index_data:

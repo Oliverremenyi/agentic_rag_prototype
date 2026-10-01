@@ -1,0 +1,866 @@
+[
+  {
+    "title": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549",
+    "start_page": 0
+  },
+  {
+    "title": "FORM 10-K",
+    "start_page": 0
+  },
+  {
+    "title": "(Mark One)",
+    "start_page": 0
+  },
+  {
+    "title": "DOCUMENTS INCORPORATED BY REFERENCE",
+    "start_page": 1
+  },
+  {
+    "title": "PART I",
+    "start_page": 3
+  },
+  {
+    "title": "Item 1. Business.",
+    "start_page": 3
+  },
+  {
+    "title": "General",
+    "start_page": 3
+  },
+  {
+    "title": "PEO Industry",
+    "start_page": 4
+  },
+  {
+    "title": "Service Offerings",
+    "start_page": 5
+  },
+  {
+    "title": "PEO HR Outsourcing Solutions",
+    "start_page": 5
+  },
+  {
+    "title": "Other Product and Services Offerings",
+    "start_page": 9
+  },
+  {
+    "title": "Client Service Agreement",
+    "start_page": 9
+  },
+  {
+    "title": "Insperity Responsibilities",
+    "start_page": 10
+  },
+  {
+    "title": "Client Responsibilities",
+    "start_page": 10
+  },
+  {
+    "title": "Concurrent Responsibilities",
+    "start_page": 11
+  },
+  {
+    "title": "PEO HR Outsourcing Solutions Clients",
+    "start_page": 11
+  },
+  {
+    "title": "Percent of Total Revenues",
+    "start_page": 11
+  },
+  {
+    "title": "Percent of Client Base by Industry",
+    "start_page": 12
+  },
+  {
+    "title": "Marketing and Sales",
+    "start_page": 12
+  },
+  {
+    "title": "BUSINESS",
+    "start_page": 13
+  },
+  {
+    "title": "Competition",
+    "start_page": 14
+  },
+  {
+    "title": "Vendor Relationships",
+    "start_page": 14
+  },
+  {
+    "title": "Information Technology",
+    "start_page": 14
+  },
+  {
+    "title": "Industry Regulations",
+    "start_page": 15
+  },
+  {
+    "title": "Employee Benefit Plans",
+    "start_page": 16
+  },
+  {
+    "title": "Employment Taxes",
+    "start_page": 17
+  },
+  {
+    "title": "Unemployment Taxes",
+    "start_page": 17
+  },
+  {
+    "title": "State Regulation",
+    "start_page": 17
+  },
+  {
+    "title": "Human Capital",
+    "start_page": 18
+  },
+  {
+    "title": "Intellectual Property",
+    "start_page": 18
+  },
+  {
+    "title": "Item 1A. Risk Factors.",
+    "start_page": 19
+  },
+  {
+    "title": "Economic Risks",
+    "start_page": 19
+  },
+  {
+    "title": "Adverse economic conditions could negatively affect our industry, business, and results of operations.",
+    "start_page": 19
+  },
+  {
+    "title": "The economic impact of the COVID-19 pandemic has adversely affected our business. The current pandemic may \nhave, and a future outbreak of other highly infectious or contagious diseases could have, a material and adverse \nimpact on our business, results of operations, financial condition and cash flows.",
+    "start_page": 19
+  },
+  {
+    "title": "Labor shortages and increasing competition for highly skilled workers could have a material adverse effect on \nour business, financial condition or results of operations.",
+    "start_page": 21
+  },
+  {
+    "title": "Inflation may reduce our profitability.",
+    "start_page": 21
+  },
+  {
+    "title": "Geographic market concentration makes our results of operations vulnerable to regional economic factors.",
+    "start_page": 21
+  },
+  {
+    "title": "We are subject to covenants under our credit facility that may restrict our business and financing activities. Our \nfailure to comply with these covenants may result in an acceleration of our indebtedness, which could have a \nmaterial adverse effect on our business, financial condition or results of operations.",
+    "start_page": 21
+  },
+  {
+    "title": "PEO HR Outsourcing Solutions Risks",
+    "start_page": 22
+  },
+  {
+    "title": "We assume liability for WSEE payroll, payroll taxes, benefits costs and workers' compensation costs and are \nresponsible for their payment regardless of the amount billed to or paid by our clients.",
+    "start_page": 22
+  },
+  {
+    "title": "Increases in health insurance costs or our inability to secure replacement health insurance coverage on \ncompetitive terms could have a material adverse effect on our business, financial condition or results of \noperations.",
+    "start_page": 22
+  },
+  {
+    "title": "Health care reform could affect our health insurance plan and could lead to a significant disruption in our \nbusiness.",
+    "start_page": 23
+  },
+  {
+    "title": "A determination that we are not the employer of our WSEEs and an inability to offer alternate benefit plans could \nhave a material adverse effect on our business.",
+    "start_page": 23
+  },
+  {
+    "title": "Increases in workers' compensation costs or inability to secure replacement coverage on competitive terms \ncould lead to a significant disruption to our business.",
+    "start_page": 24
+  },
+  {
+    "title": "Our ability to adjust and collect service fees for increases in unemployment tax rates may be limited.",
+    "start_page": 25
+  },
+  {
+    "title": "Many of our contracts for our PEO HR Outsourcing Solutions may be canceled on short notice. Our inability to \nrenew client contracts or attract new clients could materially and adversely affect our financial conditions or \nresults of operations.",
+    "start_page": 25
+  },
+  {
+    "title": "Our loss of insurance coverage, the failure of our insurance carriers or increased insurance costs or deductibles \ncould have a material adverse effect on us.",
+    "start_page": 25
+  },
+  {
+    "title": "A determination that a client is liable for employment taxes not paid by a PEO may discourage clients from \ncontracting with us in the future.",
+    "start_page": 26
+  },
+  {
+    "title": "New and higher federal, state and local taxes could have a material adverse impact on our financial condition and \nresults of operations.",
+    "start_page": 26
+  },
+  {
+    "title": "We may be subject to liabilities for client and employee actions.",
+    "start_page": 26
+  },
+  {
+    "title": "Changes in federal, state and local regulation or our inability to obtain licenses under new regulatory frameworks \ncould have a material adverse effect on our results of operations or financial condition.",
+    "start_page": 26
+  },
+  {
+    "title": "RISK FACTORS",
+    "start_page": 27
+  },
+  {
+    "title": "Competition and other developments in the HR services industry may impact our growth and/or profitability.",
+    "start_page": 27
+  },
+  {
+    "title": "Technology Risks",
+    "start_page": 27
+  },
+  {
+    "title": "Evolving regulations, market trends and client expectations require us to constantly enhance and expand our \nservice and technology offerings.",
+    "start_page": 27
+  },
+  {
+    "title": "Disruptions of our information technology systems could damage our reputation and materially disrupt our \nbusiness operations.",
+    "start_page": 28
+  },
+  {
+    "title": "We could be subject to reduced revenues, increased costs, liability claims, or harm to our competitive position as \na result of data theft, cyberattacks or other security vulnerabilities.",
+    "start_page": 28
+  },
+  {
+    "title": "RISK FACTORS",
+    "start_page": 29
+  },
+  {
+    "title": "Failure to comply with privacy, data protection and cybersecurity laws and regulations could have a material \nadverse effect on our reputation, results of operations or financial condition, or have other adverse \nconsequences.",
+    "start_page": 29
+  },
+  {
+    "title": "The failure of third-party providers, such as financial institutions, data centers or cloud-service providers, could \nhave a material adverse effect on us.",
+    "start_page": 29
+  },
+  {
+    "title": "Other Operational Risks",
+    "start_page": 29
+  },
+  {
+    "title": "RISK FACTORS",
+    "start_page": 30
+  },
+  {
+    "title": "OTHER INFORMATION",
+    "start_page": 31
+  },
+  {
+    "title": "Item 1B. Unresolved Staff Comments.",
+    "start_page": 31
+  },
+  {
+    "title": "Item 2. Properties.",
+    "start_page": 32
+  },
+  {
+    "title": "Corporate Facilities",
+    "start_page": 32
+  },
+  {
+    "title": "Service Centers",
+    "start_page": 32
+  },
+  {
+    "title": "Sales and Service Offices",
+    "start_page": 32
+  },
+  {
+    "title": "Item 3. Legal Proceedings.",
+    "start_page": 33
+  },
+  {
+    "title": "Item 4. Mine Safety Disclosures.",
+    "start_page": 34
+  },
+  {
+    "title": "Item S-K 401 (b). Executive Officers of the Registrant.",
+    "start_page": 35
+  },
+  {
+    "title": "PART II",
+    "start_page": 36
+  },
+  {
+    "title": "Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer \nPurchases of Equity Securities.",
+    "start_page": 36
+  },
+  {
+    "title": "Common Stock",
+    "start_page": 36
+  },
+  {
+    "title": "Dividend Policy",
+    "start_page": 36
+  },
+  {
+    "title": "Issuer Purchases of Equity Securities",
+    "start_page": 36
+  },
+  {
+    "title": "STOCK ACTIVITIES",
+    "start_page": 37
+  },
+  {
+    "title": "Performance Graph",
+    "start_page": 37
+  },
+  {
+    "title": "COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*",
+    "start_page": 37
+  },
+  {
+    "title": "Item 6. [Reserved].",
+    "start_page": 37
+  },
+  {
+    "title": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of \nOperations.",
+    "start_page": 38
+  },
+  {
+    "title": "Executive Summary",
+    "start_page": 38
+  },
+  {
+    "title": "Overview",
+    "start_page": 38
+  },
+  {
+    "title": "2022 Highlights",
+    "start_page": 38
+  },
+  {
+    "title": "COVID-19 Pandemic",
+    "start_page": 39
+  },
+  {
+    "title": "Revenues",
+    "start_page": 39
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 40
+  },
+  {
+    "title": "Direct Costs",
+    "start_page": 40
+  },
+  {
+    "title": "Gross Profit",
+    "start_page": 40
+  },
+  {
+    "title": "Operating Expenses",
+    "start_page": 40
+  },
+  {
+    "title": "Other Income (Expense)",
+    "start_page": 41
+  },
+  {
+    "title": "Income Taxes",
+    "start_page": 41
+  },
+  {
+    "title": "Critical Accounting Policies and Estimates",
+    "start_page": 41
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 42
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 43
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 44
+  },
+  {
+    "title": "New Accounting Pronouncements",
+    "start_page": 44
+  },
+  {
+    "title": "Results of Operations",
+    "start_page": 44
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 45
+  },
+  {
+    "title": "Key Operating Metrics",
+    "start_page": 45
+  },
+  {
+    "title": "Revenues",
+    "start_page": 45
+  },
+  {
+    "title": "2022 Compared to 2021",
+    "start_page": 45
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 46
+  },
+  {
+    "title": "2021 Compared to 2020",
+    "start_page": 46
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 47
+  },
+  {
+    "title": "Gross Profit",
+    "start_page": 47
+  },
+  {
+    "title": "2022 Compared to 2021",
+    "start_page": 47
+  },
+  {
+    "title": "Benefits costs",
+    "start_page": 47
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 48
+  },
+  {
+    "title": "Workers' compensation costs",
+    "start_page": 48
+  },
+  {
+    "title": "Payroll tax costs",
+    "start_page": 48
+  },
+  {
+    "title": "2021 Compared to 2020",
+    "start_page": 48
+  },
+  {
+    "title": "Benefits costs",
+    "start_page": 48
+  },
+  {
+    "title": "Workers' compensation costs",
+    "start_page": 48
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 49
+  },
+  {
+    "title": "Payroll tax costs",
+    "start_page": 49
+  },
+  {
+    "title": "Operating Expenses",
+    "start_page": 49
+  },
+  {
+    "title": "2022 Compared to 2021",
+    "start_page": 49
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 50
+  },
+  {
+    "title": "2021 Compared to 2020",
+    "start_page": 50
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 51
+  },
+  {
+    "title": "Other Income (Expense)",
+    "start_page": 51
+  },
+  {
+    "title": "Income Tax Expense",
+    "start_page": 51
+  },
+  {
+    "title": "Non-GAAP Financial Measures",
+    "start_page": 51
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 52
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 53
+  },
+  {
+    "title": "Liquidity and Capital Resources",
+    "start_page": 53
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 54
+  },
+  {
+    "title": "Cash Flows from Operating Activities",
+    "start_page": 54
+  },
+  {
+    "title": "Cash Flows from Investing Activities",
+    "start_page": 54
+  },
+  {
+    "title": "Cash Flows from Financing Activities",
+    "start_page": 54
+  },
+  {
+    "title": "Seasonality, Inflation and Quarterly Fluctuations",
+    "start_page": 54
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF\nFINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "start_page": 55
+  },
+  {
+    "title": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk.",
+    "start_page": 56
+  },
+  {
+    "title": "Item 8. Financial Statements and Supplementary Data.",
+    "start_page": 56
+  },
+  {
+    "title": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial \nDisclosure.",
+    "start_page": 57
+  },
+  {
+    "title": "Item 9A. Controls and Procedures.",
+    "start_page": 57
+  },
+  {
+    "title": "Evaluation of Disclosure Controls and Procedures",
+    "start_page": 57
+  },
+  {
+    "title": "Design and Evaluation of Internal Control over Financial Reporting",
+    "start_page": 57
+  },
+  {
+    "title": "Item 9B. Other Information.",
+    "start_page": 57
+  },
+  {
+    "title": "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.",
+    "start_page": 57
+  },
+  {
+    "title": "PART III",
+    "start_page": 58
+  },
+  {
+    "title": "Item 10. Directors, Executive Officers and Corporate Governance.",
+    "start_page": 58
+  },
+  {
+    "title": "Code of Business Conduct and Ethics",
+    "start_page": 58
+  },
+  {
+    "title": "Item 11. Executive Compensation.",
+    "start_page": 58
+  },
+  {
+    "title": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related \nStockholder Matters.",
+    "start_page": 58
+  },
+  {
+    "title": "Item 13. Certain Relationships and Related Transactions, and Director Independence.",
+    "start_page": 58
+  },
+  {
+    "title": "Item 14. Principal Accounting Fees and Services.",
+    "start_page": 58
+  },
+  {
+    "title": "PART IV",
+    "start_page": 59
+  },
+  {
+    "title": "Item 15. Exhibits, Financial Statement Schedules.",
+    "start_page": 59
+  },
+  {
+    "title": "EXHIBITS AND FINANCIAL STATEMENT SCHEDULES",
+    "start_page": 60
+  },
+  {
+    "title": "EXHIBITS AND FINANCIAL STATEMENT SCHEDULES",
+    "start_page": 61
+  },
+  {
+    "title": "EXHIBITS AND FINANCIAL STATEMENT SCHEDULES",
+    "start_page": 62
+  },
+  {
+    "title": "ITEM 16. FORM 10-K SUMMARY.",
+    "start_page": 62
+  },
+  {
+    "title": "SIGNATURES",
+    "start_page": 63
+  },
+  {
+    "title": "INSPERITY, INC.",
+    "start_page": 66
+  },
+  {
+    "title": "INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "start_page": 66
+  },
+  {
+    "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+    "start_page": 67
+  },
+  {
+    "title": "Opinion on the Financial Statements",
+    "start_page": 67
+  },
+  {
+    "title": "Basis for Opinion",
+    "start_page": 67
+  },
+  {
+    "title": "Critical Audit Matters",
+    "start_page": 67
+  },
+  {
+    "title": "MANAGEMENT'S REPORT ON INTERNAL CONTROL",
+    "start_page": 70
+  },
+  {
+    "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+    "start_page": 71
+  },
+  {
+    "title": "Opinion on Internal Control over Financial Reporting",
+    "start_page": 71
+  },
+  {
+    "title": "Basis for Opinion",
+    "start_page": 71
+  },
+  {
+    "title": "Definition and Limitations of Internal Control Over Financial Reporting",
+    "start_page": 71
+  },
+  {
+    "title": "INSPERITY, INC. \u2014 CONSOLIDATED BALANCE SHEETS",
+    "start_page": 72
+  },
+  {
+    "title": "INSPERITY, INC. \u2014 CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "start_page": 73
+  },
+  {
+    "title": "INSPERITY, INC. \u2014 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
+    "start_page": 74
+  },
+  {
+    "title": "INSPERITY, INC. \u2014 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT)",
+    "start_page": 75
+  },
+  {
+    "title": "INSPERITY, INC. \u2014 CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "start_page": 76
+  },
+  {
+    "title": "INSPERITY, INC. \u2014 CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued)",
+    "start_page": 77
+  },
+  {
+    "title": "1. Accounting Policies",
+    "start_page": 78
+  },
+  {
+    "title": "Description of Business",
+    "start_page": 78
+  },
+  {
+    "title": "Revenue and Direct Cost Recognition",
+    "start_page": 78
+  },
+  {
+    "title": "Notes to the Consolidated Financial Statements",
+    "start_page": 79
+  },
+  {
+    "title": "Segment Reporting",
+    "start_page": 79
+  },
+  {
+    "title": "Principles of Consolidation",
+    "start_page": 79
+  },
+  {
+    "title": "Use of Estimates",
+    "start_page": 79
+  },
+  {
+    "title": "Concentrations of Credit Risk",
+    "start_page": 79
+  },
+  {
+    "title": "Cash, Cash Equivalents and Marketable Securities",
+    "start_page": 80
+  },
+  {
+    "title": "Property and Equipment",
+    "start_page": 80
+  },
+  {
+    "title": "Leases",
+    "start_page": 81
+  },
+  {
+    "title": "Goodwill and Other Intangible Assets",
+    "start_page": 81
+  },
+  {
+    "title": "Health Insurance Costs",
+    "start_page": 81
+  },
+  {
+    "title": "Workers' Compensation Costs",
+    "start_page": 82
+  },
+  {
+    "title": "Stock-Based Compensation",
+    "start_page": 83
+  },
+  {
+    "title": "Company-Sponsored 401(k) Retirement Plans",
+    "start_page": 83
+  },
+  {
+    "title": "Advertising",
+    "start_page": 83
+  },
+  {
+    "title": "Income Taxes",
+    "start_page": 83
+  },
+  {
+    "title": "2. Other Balance Sheet Information",
+    "start_page": 84
+  },
+  {
+    "title": "Cash, Cash Equivalents and Marketable Securities",
+    "start_page": 84
+  },
+  {
+    "title": "Cash, Cash Equivalents, Restricted Cash and Funds Held for Clients",
+    "start_page": 85
+  },
+  {
+    "title": "3. Fair Value Measurements",
+    "start_page": 85
+  },
+  {
+    "title": "Fair Value of Instruments Measured and Recognized at Fair Value",
+    "start_page": 86
+  },
+  {
+    "title": "Fair Value of Other Financial Instruments",
+    "start_page": 86
+  },
+  {
+    "title": "4. Accounts Receivable",
+    "start_page": 86
+  },
+  {
+    "title": "Notes to the Consolidated Financial Statements",
+    "start_page": 87
+  },
+  {
+    "title": "5. Deposits and prepaid health insurance",
+    "start_page": 87
+  },
+  {
+    "title": "6. Long-Term Debt",
+    "start_page": 87
+  },
+  {
+    "title": "Notes to the Consolidated Financial Statements",
+    "start_page": 88
+  },
+  {
+    "title": "7. Income Taxes",
+    "start_page": 88
+  },
+  {
+    "title": "8. Stockholders' Equity (Deficit)",
+    "start_page": 89
+  },
+  {
+    "title": "Repurchase Program",
+    "start_page": 89
+  },
+  {
+    "title": "Dividends",
+    "start_page": 90
+  },
+  {
+    "title": "Preferred Stock",
+    "start_page": 90
+  },
+  {
+    "title": "9. Incentive Plans",
+    "start_page": 90
+  },
+  {
+    "title": "Notes to the Consolidated Financial Statements",
+    "start_page": 91
+  },
+  {
+    "title": "Time-Based Restricted Stock Awards and Time-Based Restricted Stock Units",
+    "start_page": 91
+  },
+  {
+    "title": "Long-Term Incentive Program Awards",
+    "start_page": 91
+  },
+  {
+    "title": "Employee Stock Purchase Plan",
+    "start_page": 92
+  },
+  {
+    "title": "10. Earnings Per Share",
+    "start_page": 92
+  },
+  {
+    "title": "11. Leases",
+    "start_page": 93
+  },
+  {
+    "title": "Notes to the Consolidated Financial Statements",
+    "start_page": 94
+  },
+  {
+    "title": "12. Commitments and Contingencies",
+    "start_page": 94
+  },
+  {
+    "title": "Litigation",
+    "start_page": 94
+  }
+]

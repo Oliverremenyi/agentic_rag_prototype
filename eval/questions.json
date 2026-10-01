@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Q01",
+    "question": "What was Microsoft's total revenue in fiscal year 2022?",
+    "expected_contains": ["198,270", "198.2", "198.3"],
+    "category": "direct"
+  },
+  {
+    "id": "Q02",
+    "question": "Approximately how many people did Microsoft employ as of June 30, 2022?",
+    "expected_contains": ["221,000"],
+    "category": "direct"
+  },
+  {
+    "id": "Q03",
+    "question": "Approximately how many employees did HCA Healthcare have as of December 31, 2022?",
+    "expected_contains": ["294,000"],
+    "category": "direct"
+  },
+  {
+    "id": "Q04",
+    "question": "How much did Insperity pay in dividends during 2022?",
+    "expected_contains": ["76.6 million", "$76.6"],
+    "category": "direct"
+  },
+  {
+    "id": "Q05",
+    "question": "What were Toshiba's net sales for the fiscal year, in yen?",
+    "expected_contains": ["3,337", "3.34 t", "3,337.0"],
+    "category": "direct"
+  },
+  {
+    "id": "Q06",
+    "question": "What were MGM Resorts International's consolidated net revenues in 2021?",
+    "expected_contains": ["13.1 billion", "$13.1"],
+    "category": "direct"
+  },
+  {
+    "id": "Q07",
+    "question": "What were 1-800-FLOWERS.COM's total net revenues in fiscal 2022?",
+    "expected_contains": ["2.2 billion", "2,207,885", "$2.2"],
+    "category": "direct"
+  },
+  {
+    "id": "Q08",
+    "question": "By how much did Microsoft's research and development expenses increase in fiscal 2022?",
+    "expected_contains": ["3.8 billion", "18%"],
+    "category": "direct"
+  },
+  {
+    "id": "Q09",
+    "question": "What is the capital of France?",
+    "expected_contains": ["don't have", "insufficient", "outside", "cannot answer"],
+    "category": "direct"
+  },
+  {
+    "id": "Q10",
+    "question": "What was Microsoft's total revenue in fiscal 2022, and how many employees did HCA Healthcare have?",
+    "expected_contains": ["198,270", "294,000"],
+    "category": "compound"
+  },
+  {
+    "id": "Q11",
+    "question": "How much did Insperity pay in dividends in 2022, and what were 1-800-FLOWERS.COM's total net revenues in fiscal 2022?",
+    "expected_contains": ["76.6 million", "2.2 billion"],
+    "category": "compound"
+  },
+  {
+    "id": "Q12",
+    "question": "What were Toshiba's net sales, and what were MGM Resorts International's net revenues in 2021?",
+    "expected_contains": ["3,337", "13.1 billion"],
+    "category": "compound"
+  },
+  {
+    "id": "Q13",
+    "question": "What was Microsoft's revenue in fiscal 2022, and what is Tesla's current market capitalization?",
+    "expected_contains": ["198,270", "don't have", "insufficient", "cannot"],
+    "category": "compound"
+  },
+  {
+    "id": "Q14",
+    "question": "Which company had more employees, Microsoft or HCA Healthcare, and by how much?",
+    "expected_contains": ["Microsoft", "HCA"],
+    "category": "comparison"
+  },
+  {
+    "id": "Q15",
+    "question": "Which had higher revenue, MGM Resorts International's 2021 net revenues or 1-800-FLOWERS.COM's fiscal 2022 total net revenues, and by how much?",
+    "expected_contains": ["MGM", "1-800-FLOWERS"],
+    "category": "comparison"
+  },
+  {
+    "id": "Q16",
+    "question": "Which company paid more in dividends, Insperity in 2022 or Microsoft, and by how much?",
+    "expected_contains": ["Insperity", "Microsoft", "can't complete", "don't have"],
+    "category": "comparison"
+  }
+]

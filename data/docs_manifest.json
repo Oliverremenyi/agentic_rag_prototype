@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "microsoft-corporation",
+    "company_name": "Microsoft Corporation",
+    "industry": "Technology",
+    "currency": "USD",
+    "sha1": "91caa5884d3fbc344a05ac2f1d113a5d8725e4cb",
+    "sections": 253
+  },
+  {
+    "slug": "toshiba-corporation",
+    "company_name": "Toshiba Corporation",
+    "industry": "Technology",
+    "currency": "AUD",
+    "sha1": "e273ed0d9626b9feaf50c09405c2b70d461e41d7",
+    "sections": 247
+  },
+  {
+    "slug": "hca-healthcare-inc",
+    "company_name": "HCA Healthcare, Inc.",
+    "industry": "Healthcare",
+    "currency": "USD",
+    "sha1": "a69ebee82a9acd54117407ca3697db0d7bfbfdac",
+    "sections": 322
+  },
+  {
+    "slug": "insperity-inc",
+    "company_name": "Insperity, Inc.",
+    "industry": "Financial Services",
+    "currency": "USD",
+    "sha1": "7be0f16625505fb48ad135c1a3fccd75ce06671c",
+    "sections": 216
+  },
+  {
+    "slug": "1-800-flowers-com-inc",
+    "company_name": "1-800-FLOWERS.COM, INC.",
+    "industry": "Retail",
+    "currency": "USD",
+    "sha1": "30f64d1043f4cb425eb636763580ae27094ffef1",
+    "sections": 176
+  },
+  {
+    "slug": "mgm-resorts-international",
+    "company_name": "MGM Resorts International",
+    "industry": "Hospitality",
+    "currency": "USD",
+    "sha1": "e117005fc313bf0d49429d34bc8e1ef64de54898",
+    "sections": 175
+  }
+]

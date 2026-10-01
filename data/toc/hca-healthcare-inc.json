@@ -1,0 +1,1290 @@
+[
+  {
+    "title": "2022 by the numbers",
+    "start_page": 1
+  },
+  {
+    "title": "To our valued shareholders,",
+    "start_page": 2
+  },
+  {
+    "title": "Above all else, we are \ncommitted to the care and \nimprovement of human life.",
+    "start_page": 2
+  },
+  {
+    "title": "Most importantly, we stayed true to our \nmission and values \u2013 caring for our patients, \npeople, and communities.",
+    "start_page": 3
+  },
+  {
+    "title": "We look forward to continuing to show up for our colleagues and communities in 2023 and beyond.",
+    "start_page": 6
+  },
+  {
+    "title": "UNITED STATES\n \nSECURITIES AND EXCHANGE COMMISSION",
+    "start_page": 7
+  },
+  {
+    "title": "Form 10-K",
+    "start_page": 7
+  },
+  {
+    "title": "(Mark One)",
+    "start_page": 7
+  },
+  {
+    "title": "HCA Healthcare, Inc.",
+    "start_page": 7
+  },
+  {
+    "title": "DOCUMENTS INCORPORATED BY REFERENCE",
+    "start_page": 7
+  },
+  {
+    "title": "INDEX",
+    "start_page": 8
+  },
+  {
+    "title": "Page",
+    "start_page": 8
+  },
+  {
+    "title": "PART I",
+    "start_page": 9
+  },
+  {
+    "title": "Item 1. Business",
+    "start_page": 9
+  },
+  {
+    "title": "Available Information",
+    "start_page": 9
+  },
+  {
+    "title": "Business Strategy",
+    "start_page": 9
+  },
+  {
+    "title": "Health Care Facilities",
+    "start_page": 10
+  },
+  {
+    "title": "COVID-19",
+    "start_page": 10
+  },
+  {
+    "title": "Summary Risk Factors",
+    "start_page": 11
+  },
+  {
+    "title": "Sources of Revenue",
+    "start_page": 12
+  },
+  {
+    "title": "Medicare",
+    "start_page": 13
+  },
+  {
+    "title": "Inpatient Acute Care",
+    "start_page": 13
+  },
+  {
+    "title": "Outpatient",
+    "start_page": 15
+  },
+  {
+    "title": "Rehabilitation",
+    "start_page": 15
+  },
+  {
+    "title": "Psychiatric",
+    "start_page": 16
+  },
+  {
+    "title": "Ambulatory Surgery Centers",
+    "start_page": 16
+  },
+  {
+    "title": "Home Health",
+    "start_page": 17
+  },
+  {
+    "title": "Hospice",
+    "start_page": 17
+  },
+  {
+    "title": "Physician Services",
+    "start_page": 18
+  },
+  {
+    "title": "Other",
+    "start_page": 18
+  },
+  {
+    "title": "Managed Medicare",
+    "start_page": 19
+  },
+  {
+    "title": "Medicaid",
+    "start_page": 19
+  },
+  {
+    "title": "Managed Medicaid",
+    "start_page": 20
+  },
+  {
+    "title": "Accountable Care Organizations and Bundled Payment Initiatives",
+    "start_page": 20
+  },
+  {
+    "title": "Disproportionate Share Hospital and Medicaid Supplemental Payments",
+    "start_page": 21
+  },
+  {
+    "title": "TRICARE",
+    "start_page": 21
+  },
+  {
+    "title": "Annual Cost Reports",
+    "start_page": 21
+  },
+  {
+    "title": "Managed Care and Other Discounted Plans",
+    "start_page": 22
+  },
+  {
+    "title": "Uninsured and Self-Pay Patients",
+    "start_page": 22
+  },
+  {
+    "title": "Hospital Utilization",
+    "start_page": 23
+  },
+  {
+    "title": "Competition",
+    "start_page": 23
+  },
+  {
+    "title": "Regulation and Other Factors",
+    "start_page": 25
+  },
+  {
+    "title": "Licensure, Certification and Accreditation",
+    "start_page": 25
+  },
+  {
+    "title": "Certificates of Need",
+    "start_page": 26
+  },
+  {
+    "title": "Federal Health Care Program Regulations",
+    "start_page": 26
+  },
+  {
+    "title": "Anti-kickback Statute",
+    "start_page": 26
+  },
+  {
+    "title": "Stark Law",
+    "start_page": 27
+  },
+  {
+    "title": "Other Fraud and Abuse Provisions",
+    "start_page": 28
+  },
+  {
+    "title": "State Fraud and Abuse Laws",
+    "start_page": 28
+  },
+  {
+    "title": "The Federal False Claims Act and Similar State Laws",
+    "start_page": 28
+  },
+  {
+    "title": "HIPAA Administrative Simplification and Privacy, Security and Interoperability Requirements",
+    "start_page": 29
+  },
+  {
+    "title": "EMTALA",
+    "start_page": 30
+  },
+  {
+    "title": "Corporate Practice of Medicine/Fee Splitting",
+    "start_page": 30
+  },
+  {
+    "title": "Health Care Industry Investigations",
+    "start_page": 31
+  },
+  {
+    "title": "Health Care Reform",
+    "start_page": 31
+  },
+  {
+    "title": "General Economic and Demographic Factors",
+    "start_page": 32
+  },
+  {
+    "title": "Compliance Program",
+    "start_page": 33
+  },
+  {
+    "title": "Antitrust Laws",
+    "start_page": 33
+  },
+  {
+    "title": "Environmental Matters",
+    "start_page": 33
+  },
+  {
+    "title": "Human Capital Resources",
+    "start_page": 34
+  },
+  {
+    "title": "Diversity, Equity and Inclusion",
+    "start_page": 34
+  },
+  {
+    "title": "Compensation and Benefits",
+    "start_page": 35
+  },
+  {
+    "title": "Recruitment and Workforce Development",
+    "start_page": 35
+  },
+  {
+    "title": "Serving the Community",
+    "start_page": 35
+  },
+  {
+    "title": "Culture and Talent Development",
+    "start_page": 35
+  },
+  {
+    "title": "Health, Safety and Wellness",
+    "start_page": 35
+  },
+  {
+    "title": "Labor Matters",
+    "start_page": 36
+  },
+  {
+    "title": "Information about our Executive Officers",
+    "start_page": 37
+  },
+  {
+    "title": "Item 1A. Risk Factors",
+    "start_page": 39
+  },
+  {
+    "title": "Risks related to COVID-19 and other potential pandemics:",
+    "start_page": 39
+  },
+  {
+    "title": "We are unable to predict the ultimate impact of the CARES Act and other stimulus and relief legislation or the effect\nthat such legislation and other governmental responses intended to assist providers in responding to COVID-19 may\nhave on our business, financial condition, results of operations or cash flows.",
+    "start_page": 40
+  },
+  {
+    "title": "The emergence and effects related to a potential future pandemic, epidemic or outbreak of an infectious disease could\nadversely affect our operations.",
+    "start_page": 41
+  },
+  {
+    "title": "Risks related to our indebtedness:",
+    "start_page": 41
+  },
+  {
+    "title": "Our debt agreements contain restrictions that limit our flexibility in operating our business.",
+    "start_page": 42
+  },
+  {
+    "title": "Risks related to human capital:",
+    "start_page": 43
+  },
+  {
+    "title": "We may be unable to attract, hire and retain a highly qualified and diverse workforce, including key management.",
+    "start_page": 43
+  },
+  {
+    "title": "Our performance depends on our ability to recruit and retain quality physicians.",
+    "start_page": 44
+  },
+  {
+    "title": "Risks related to technology, data privacy and cybersecurity:",
+    "start_page": 44
+  },
+  {
+    "title": "Our operations could be impaired by a failure of our information systems.",
+    "start_page": 45
+  },
+  {
+    "title": "Health care technology initiatives, particularly those related to sharing patient data and interoperability, may\nadversely affect our operations.",
+    "start_page": 46
+  },
+  {
+    "title": "We may not be reimbursed for the cost of expensive, new technology.",
+    "start_page": 46
+  },
+  {
+    "title": "Risks related to governmental regulation and other legal matters:",
+    "start_page": 46
+  },
+  {
+    "title": "Changes in government health care programs may adversely affect our revenues.",
+    "start_page": 47
+  },
+  {
+    "title": "State efforts to regulate the construction or expansion of health care facilities could impair our ability to operate and\nexpand our operations.",
+    "start_page": 50
+  },
+  {
+    "title": "We may incur additional tax liabilities.",
+    "start_page": 51
+  },
+  {
+    "title": "We have been and could become the subject of government investigations, claims and litigation.",
+    "start_page": 51
+  },
+  {
+    "title": "We may be subject to liabilities from claims brought against our facilities, which are costly to defend and may require\nus to pay significant damages if not covered by insurance.",
+    "start_page": 51
+  },
+  {
+    "title": "Risks related to operations, strategy, demand and competition:",
+    "start_page": 51
+  },
+  {
+    "title": "Our hospitals and other facilities face competition for patients from other hospitals and health care providers.",
+    "start_page": 51
+  },
+  {
+    "title": "Any increase in the volume of uninsured patients or deterioration in the collectability of uninsured and patient due\naccounts could adversely affect our results of operations.",
+    "start_page": 52
+  },
+  {
+    "title": "If our volume of patients with private health insurance coverage declines or we are unable to retain and negotiate\nfavorable contracts with private third-party payers, including managed care plans, our revenues may be adversely\naffected.",
+    "start_page": 53
+  },
+  {
+    "title": "Changes to physician utilization practices and treatment methodologies, third-party payer controls designed to reduce\ninpatientservices orsurgical procedures and otherfactors outside our control that impact demand for medicalservices\nmay reduce our revenues.",
+    "start_page": 54
+  },
+  {
+    "title": "We may encounter difficulty acquiring hospitals and other health care businesses, encounter challenges integrating\nthe operations of acquired hospitals and other health care businesses and/or become liable for unknown or contingent\nliabilities as a result of acquisitions.",
+    "start_page": 54
+  },
+  {
+    "title": "Our facilities are heavily concentrated in Florida and Texas, which makes us sensitive to regulatory, economic, public\nhealth, environmental and competitive conditions and changes in those states.",
+    "start_page": 55
+  },
+  {
+    "title": "Our business and operations are subject to risks related to climate change.",
+    "start_page": 55
+  },
+  {
+    "title": "We may be adversely affected if we are not able to achieve our environmental, social and governance (\"ESG\") goals\nor otherwise meet the expectations of our stakeholders with respect to ESG matters.",
+    "start_page": 55
+  },
+  {
+    "title": "The industry trend toward value-based purchasing may negatively impact our revenues.",
+    "start_page": 56
+  },
+  {
+    "title": "Risks related to macroeconomic conditions:",
+    "start_page": 57
+  },
+  {
+    "title": "Our overall business results may suffer during periods of general economic weakness.",
+    "start_page": 57
+  },
+  {
+    "title": "We are exposed to market risk related to changes in the market values of securities and interest rates.",
+    "start_page": 57
+  },
+  {
+    "title": "Risks related to ownership of our common stock:",
+    "start_page": 58
+  },
+  {
+    "title": "There can be no assurance that we will continue to pay dividends.",
+    "start_page": 58
+  },
+  {
+    "title": "Certain of our investors may continue to have influence over us.",
+    "start_page": 58
+  },
+  {
+    "title": "Item 1B. Unresolved Staff Comments",
+    "start_page": 58
+  },
+  {
+    "title": "Item 2. Properties",
+    "start_page": 59
+  },
+  {
+    "title": "Item 3. Legal Proceedings",
+    "start_page": 59
+  },
+  {
+    "title": "Item 4. Mine Safety Disclosures",
+    "start_page": 59
+  },
+  {
+    "title": "Item 5.\t Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity\nSecurities",
+    "start_page": 60
+  },
+  {
+    "title": "STOCK PERFORMANCE GRAPH\n \nCOMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN\n \nAmong HCA Healthcare, Inc., the S&P 500 Index and the S&P Health Care Index",
+    "start_page": 61
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 62
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS",
+    "start_page": 62
+  },
+  {
+    "title": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+    "start_page": 62
+  },
+  {
+    "title": "Forward-Looking Statements",
+    "start_page": 62
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 63
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 63
+  },
+  {
+    "title": "Forward-Looking Statements (continued)",
+    "start_page": 63
+  },
+  {
+    "title": "COVID-19",
+    "start_page": 63
+  },
+  {
+    "title": "2022 Operations Summary",
+    "start_page": 63
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 64
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 64
+  },
+  {
+    "title": "Business Strategy",
+    "start_page": 64
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 65
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 65
+  },
+  {
+    "title": "Critical Accounting Policies and Estimates",
+    "start_page": 65
+  },
+  {
+    "title": "Revenues",
+    "start_page": 65
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 66
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 66
+  },
+  {
+    "title": "Critical Accounting Policies and Estimates (Continued)",
+    "start_page": 66
+  },
+  {
+    "title": "Revenues (continued)",
+    "start_page": 66
+  },
+  {
+    "title": "Professional Liability Claims",
+    "start_page": 66
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 67
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 67
+  },
+  {
+    "title": "Critical Accounting Policies and Estimates (Continued)",
+    "start_page": 67
+  },
+  {
+    "title": "Professional Liability Claims (continued)",
+    "start_page": 67
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 68
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 68
+  },
+  {
+    "title": "Critical Accounting Policies and Estimates (Continued)",
+    "start_page": 68
+  },
+  {
+    "title": "Income Taxes",
+    "start_page": 68
+  },
+  {
+    "title": "Results of Operations",
+    "start_page": 68
+  },
+  {
+    "title": "Revenue/Volume Trends",
+    "start_page": 68
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 69
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 69
+  },
+  {
+    "title": "Results of Operations (continued)",
+    "start_page": 69
+  },
+  {
+    "title": "Revenue/Volume Trends (continued)",
+    "start_page": 69
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 70
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 70
+  },
+  {
+    "title": "Results of Operations (continued)",
+    "start_page": 70
+  },
+  {
+    "title": "Key Performance Indicators",
+    "start_page": 70
+  },
+  {
+    "title": "Operating Results Summary",
+    "start_page": 70
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 71
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 71
+  },
+  {
+    "title": "Results of Operations (continued)",
+    "start_page": 71
+  },
+  {
+    "title": "Operating Data:",
+    "start_page": 71
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 72
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 72
+  },
+  {
+    "title": "Results of Operations (continued)",
+    "start_page": 72
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 73
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 73
+  },
+  {
+    "title": "Results of Operations (continued)",
+    "start_page": 73
+  },
+  {
+    "title": "Years Ended December 31, 2022 and 2021 (continued)",
+    "start_page": 73
+  },
+  {
+    "title": "Liquidity and Capital Resources",
+    "start_page": 73
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 74
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 74
+  },
+  {
+    "title": "Liquidity and Capital Resources (continued)",
+    "start_page": 74
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 75
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 75
+  },
+  {
+    "title": "Liquidity and Capital Resources (continued)",
+    "start_page": 75
+  },
+  {
+    "title": "Financing Activities",
+    "start_page": 75
+  },
+  {
+    "title": "Market Risk",
+    "start_page": 75
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 76
+  },
+  {
+    "title": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION\n \nAND RESULTS OF OPERATIONS (Continued)",
+    "start_page": 76
+  },
+  {
+    "title": "Market Risk (continued)",
+    "start_page": 76
+  },
+  {
+    "title": "Tax Examinations",
+    "start_page": 76
+  },
+  {
+    "title": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+    "start_page": 76
+  },
+  {
+    "title": "Item 8. Financial Statements and Supplementary Data",
+    "start_page": 77
+  },
+  {
+    "title": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+    "start_page": 77
+  },
+  {
+    "title": "Item 9A. Controls and Procedures",
+    "start_page": 77
+  },
+  {
+    "title": "1. Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures",
+    "start_page": 77
+  },
+  {
+    "title": "2. Internal Control Over Financial Reporting",
+    "start_page": 77
+  },
+  {
+    "title": "Report of Independent Registered Public Accounting Firm",
+    "start_page": 78
+  },
+  {
+    "title": "Opinion on Internal Control over Financial Reporting",
+    "start_page": 78
+  },
+  {
+    "title": "Basis for Opinion",
+    "start_page": 78
+  },
+  {
+    "title": "Definition and Limitations of Internal Control Over Financial Reporting",
+    "start_page": 78
+  },
+  {
+    "title": "Item 9B. Other Information",
+    "start_page": 79
+  },
+  {
+    "title": "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+    "start_page": 79
+  },
+  {
+    "title": "PART III",
+    "start_page": 80
+  },
+  {
+    "title": "Item 11. Executive Compensation",
+    "start_page": 80
+  },
+  {
+    "title": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+    "start_page": 80
+  },
+  {
+    "title": "EQUITY COMPENSATION PLAN INFORMATION\n(Share and share unit amounts in millions)",
+    "start_page": 81
+  },
+  {
+    "title": "Item 13. Certain Relationships and Related Transactions, and Director Independence",
+    "start_page": 81
+  },
+  {
+    "title": "Item 14. Principal Accountant Fees and Services",
+    "start_page": 81
+  },
+  {
+    "title": "Item 15. Exhibits and Financial Statement Schedules",
+    "start_page": 82
+  },
+  {
+    "title": "(a) Documents filed as part of the report:",
+    "start_page": 82
+  },
+  {
+    "title": "3. List of Exhibits",
+    "start_page": 82
+  },
+  {
+    "title": "Item 16. Form 10-K Summary",
+    "start_page": 94
+  },
+  {
+    "title": "SIGNATURES",
+    "start_page": 95
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.\nINDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "start_page": 96
+  },
+  {
+    "title": "Report of Independent Registered Public Accounting Firm",
+    "start_page": 97
+  },
+  {
+    "title": "Opinion on the Financial Statements",
+    "start_page": 97
+  },
+  {
+    "title": "Basis for Opinion",
+    "start_page": 97
+  },
+  {
+    "title": "Critical Audit Matters",
+    "start_page": 97
+  },
+  {
+    "title": "Revenue Recognition",
+    "start_page": 98
+  },
+  {
+    "title": "Professional Liability Claims",
+    "start_page": 98
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.\nCONSOLIDATED INCOME STATEMENTS\nFOR THE YEARS ENDED DECEMBER 31, 2022, 2021 AND 2020\n(Dollars in millions, except per share amounts)",
+    "start_page": 100
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.\n \nCONSOLIDATED COMPREHENSIVE INCOME STATEMENTS\n \nFOR THE YEARS ENDED DECEMBER 31, 2022, 2021 AND 2020\n \n(Dollars in millions)",
+    "start_page": 101
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.\nCONSOLIDATED BALANCE SHEETS\nDECEMBER 31, 2022 AND 2021\n(Dollars in millions)",
+    "start_page": 102
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.\n \nCONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT)\n \nFOR THE YEARS ENDED DECEMBER 31, 2022, 2021 AND 2020",
+    "start_page": 103
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.\n \nCONSOLIDATED STATEMENTS OF CASH FLOWS\n \nFOR THE YEARS ENDED DECEMBER 31, 2022, 2021 AND 2020\n \n(Dollars in millions)",
+    "start_page": 104
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 105
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+    "start_page": 105
+  },
+  {
+    "title": "NOTE 1 \u2014 ACCOUNTING POLICIES",
+    "start_page": 105
+  },
+  {
+    "title": "Reporting Entity",
+    "start_page": 105
+  },
+  {
+    "title": "Basis of Presentation",
+    "start_page": 105
+  },
+  {
+    "title": "COVID-19",
+    "start_page": 105
+  },
+  {
+    "title": "Revenues",
+    "start_page": 105
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 106
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 106
+  },
+  {
+    "title": "NOTE 1 \u2014 ACCOUNTING POLICIES (continued)",
+    "start_page": 106
+  },
+  {
+    "title": "Revenues (continued)",
+    "start_page": 106
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 107
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 107
+  },
+  {
+    "title": "NOTE 1 \u2014 ACCOUNTING POLICIES (continued)",
+    "start_page": 107
+  },
+  {
+    "title": "Revenues (continued)",
+    "start_page": 107
+  },
+  {
+    "title": "Cash and Cash Equivalents",
+    "start_page": 107
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 108
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 108
+  },
+  {
+    "title": "NOTE 1 \u2014 ACCOUNTING POLICIES (continued)",
+    "start_page": 108
+  },
+  {
+    "title": "Accounts Receivable",
+    "start_page": 108
+  },
+  {
+    "title": "Inventories",
+    "start_page": 108
+  },
+  {
+    "title": "Property and Equipment",
+    "start_page": 108
+  },
+  {
+    "title": "Investments of Insurance Subsidiaries",
+    "start_page": 108
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 109
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 109
+  },
+  {
+    "title": "NOTE 1 \u2014 ACCOUNTING POLICIES (continued)",
+    "start_page": 109
+  },
+  {
+    "title": "Goodwill and Intangible Assets",
+    "start_page": 109
+  },
+  {
+    "title": "Debt Issuance Costs and Discounts",
+    "start_page": 109
+  },
+  {
+    "title": "Professional Liability Claims",
+    "start_page": 109
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 110
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 110
+  },
+  {
+    "title": "NOTE 1 \u2014 ACCOUNTING POLICIES (continued)",
+    "start_page": 110
+  },
+  {
+    "title": "Professional Liability Claims (continued)",
+    "start_page": 110
+  },
+  {
+    "title": "Financial Instruments",
+    "start_page": 110
+  },
+  {
+    "title": "Noncontrolling Interests in Consolidated Entities",
+    "start_page": 110
+  },
+  {
+    "title": "NOTE 2 \u2014 SHARE-BASED COMPENSATION",
+    "start_page": 110
+  },
+  {
+    "title": "Stock Incentive Plans",
+    "start_page": 110
+  },
+  {
+    "title": "Employee Stock Purchase Plan",
+    "start_page": 110
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 111
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 111
+  },
+  {
+    "title": "NOTE 2 \u2014 SHARE-BASED COMPENSATION (continued)",
+    "start_page": 111
+  },
+  {
+    "title": "SAR, RSU and PSU Activity",
+    "start_page": 111
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 112
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 112
+  },
+  {
+    "title": "NOTE 2 \u2014 SHARE-BASED COMPENSATION (continued)",
+    "start_page": 112
+  },
+  {
+    "title": "SAR, RSU and PSU Activity (continued)",
+    "start_page": 112
+  },
+  {
+    "title": "NOTE 3 \u2014 ACQUISITIONS AND DISPOSITIONS",
+    "start_page": 112
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 113
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 113
+  },
+  {
+    "title": "NOTE 3 \u2014 ACQUISITIONS AND DISPOSITIONS (continued)",
+    "start_page": 113
+  },
+  {
+    "title": "NOTE 4 \u2014 INCOME TAXES",
+    "start_page": 113
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 114
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 114
+  },
+  {
+    "title": "NOTE 4 \u2014 INCOME TAXES (continued)",
+    "start_page": 114
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 115
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 115
+  },
+  {
+    "title": "NOTE 5 \u2014 EARNINGS PER SHARE",
+    "start_page": 115
+  },
+  {
+    "title": "NOTE 6 \u2014 INVESTMENTS OF INSURANCE SUBSIDIARIES",
+    "start_page": 115
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 116
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 116
+  },
+  {
+    "title": "NOTE 6 \u2014 INVESTMENTS OF INSURANCE SUBSIDIARIES (continued)",
+    "start_page": 116
+  },
+  {
+    "title": "NOTE 7 \u2014 ASSETS AND LIABILITIES MEASURED AT FAIR VALUE",
+    "start_page": 116
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 117
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 117
+  },
+  {
+    "title": "NOTE 7 \u2014 ASSETS AND LIABILITIES MEASURED AT FAIR VALUE (continued)",
+    "start_page": 117
+  },
+  {
+    "title": "NOTE 8 \u2014 LONG-TERM DEBT",
+    "start_page": 117
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 118
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 118
+  },
+  {
+    "title": "NOTE 8 \u2014 LONG-TERM DEBT (continued)",
+    "start_page": 118
+  },
+  {
+    "title": "Senior Secured Credit Facilities And Other Senior Secured Debt",
+    "start_page": 118
+  },
+  {
+    "title": "Senior Unsecured Notes",
+    "start_page": 118
+  },
+  {
+    "title": "General Debt Information",
+    "start_page": 118
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 119
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 119
+  },
+  {
+    "title": "NOTE 9 \u2014 LEASES",
+    "start_page": 119
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 120
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 120
+  },
+  {
+    "title": "NOTE 9 \u2014 LEASES (continued)",
+    "start_page": 120
+  },
+  {
+    "title": "Maturities of Lease Liabilities",
+    "start_page": 120
+  },
+  {
+    "title": "NOTE 10 \u2014 CONTINGENCIES",
+    "start_page": 120
+  },
+  {
+    "title": "Government Investigations, Claims and Litigation",
+    "start_page": 120
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 121
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 121
+  },
+  {
+    "title": "NOTE 11 \u2014 CAPITAL STOCK",
+    "start_page": 121
+  },
+  {
+    "title": "Share Repurchase Transactions",
+    "start_page": 121
+  },
+  {
+    "title": "NOTE 12 \u2014 EMPLOYEE BENEFIT PLANS",
+    "start_page": 121
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 122
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 122
+  },
+  {
+    "title": "NOTE 13 \u2014 SEGMENT AND GEOGRAPHIC INFORMATION",
+    "start_page": 122
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 123
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 123
+  },
+  {
+    "title": "NOTE 13 \u2014 SEGMENT AND GEOGRAPHIC INFORMATION (continued)",
+    "start_page": 123
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 124
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 124
+  },
+  {
+    "title": "NOTE 14 \u2014 OTHER COMPREHENSIVE LOSS",
+    "start_page": 124
+  },
+  {
+    "title": "HCA HEALTHCARE, INC.",
+    "start_page": 125
+  },
+  {
+    "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)",
+    "start_page": 125
+  },
+  {
+    "title": "NOTE 15 \u2014 ACCRUED EXPENSES",
+    "start_page": 125
+  },
+  {
+    "title": "CERTIFICATIONS",
+    "start_page": 126
+  },
+  {
+    "title": "CERTIFICATIONS",
+    "start_page": 127
+  },
+  {
+    "title": "CERTIFICATION PURSUANT TO\n \n18 U.S.C. SECTION 1350,\n \nAS ADOPTED PURSUANT TO\n \nSECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+    "start_page": 128
+  },
+  {
+    "title": "Thomas F. Frist Ill \nChairman \nHCA Healthcare",
+    "start_page": 130
+  },
+  {
+    "title": "Robert J. Dennis",
+    "start_page": 130
+  },
+  {
+    "title": "Nancy-Ann DeParle\nCo-founder and \nManaging Partner\nConsonance Capital\nPartners",
+    "start_page": 130
+  },
+  {
+    "title": "Directors",
+    "start_page": 130
+  },
+  {
+    "title": "Executive Officers",
+    "start_page": 130
+  },
+  {
+    "title": "Corporate Information",
+    "start_page": 131
+  },
+  {
+    "title": "Transfer Agent and Registrar",
+    "start_page": 131
+  },
+  {
+    "title": "Certified/Overnight Mail",
+    "start_page": 131
+  },
+  {
+    "title": "Independent Registered \nPublic Accounting Firm",
+    "start_page": 131
+  },
+  {
+    "title": "Corporate Headquarters",
+    "start_page": 131
+  },
+  {
+    "title": "Form 10-K",
+    "start_page": 131
+  },
+  {
+    "title": "Common Stock and Dividend Information",
+    "start_page": 131
+  },
+  {
+    "title": "Annual Meeting of Shareholders",
+    "start_page": 131
+  }
+]

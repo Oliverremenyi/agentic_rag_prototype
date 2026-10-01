@@ -1,0 +1,14 @@
+.git/
+.gitignore
+.idea/
+.claude/
+.specify/
+specs/
+tests/
+/*.md
+data/index/
+eval/results/
+loadtest/results/
+__pycache__/
+*.pyc
+.venv/
